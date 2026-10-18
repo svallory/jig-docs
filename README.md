@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> This repository is archived. Development continues in the monorepo [hyperlab-sh/jig](https://github.com/hyperlab-sh/jig/tree/main/docs), which keeps the full history.
+
 # Docs boilerplate
 
 The boilerplate repo we use across AdonisJS projects to create a documentation website. The boilerplate allows for maximum customization without getting verbose.
